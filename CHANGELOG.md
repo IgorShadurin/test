@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/IgorShadurin/test/compare/v0.2.0...v0.3.0) (2022-07-15)
+
+
+### Features
+
+* new smth ([730e3d3](https://www.github.com/IgorShadurin/test/commit/730e3d3f86eea3b251dd2624f667e20d099f3bcb))
+
 ## [0.2.0](https://www.github.com/IgorShadurin/test/compare/v0.1.0...v0.2.0) (2022-07-15)
 
 
