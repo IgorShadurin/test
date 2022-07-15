@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/IgorShadurin/test/compare/v0.3.1...v0.4.0) (2022-07-15)
+
+
+### Features
+
+* new action ([416d818](https://github.com/IgorShadurin/test/commit/416d81844e2c316fd9c0c35b5125ba5f62e17458))
+
 ### [0.3.1](https://www.github.com/IgorShadurin/test/compare/v0.3.0...v0.3.1) (2022-07-15)
 
 
