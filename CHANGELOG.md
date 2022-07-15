@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.1](https://www.github.com/IgorShadurin/test/compare/v0.3.0...v0.3.1) (2022-07-15)
+
+
+### Bug Fixes
+
+* nothing ([cbca9c5](https://www.github.com/IgorShadurin/test/commit/cbca9c54a9a7c27b806139ea8bc4903a90050c09))
+
 ## [0.3.0](https://www.github.com/IgorShadurin/test/compare/v0.2.0...v0.3.0) (2022-07-15)
 
 
