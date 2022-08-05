@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.0](https://github.com/IgorShadurin/test/compare/v0.4.0...v0.5.0) (2022-08-05)
+
+
+### Features
+
+* new 888 ([0fdaf62](https://github.com/IgorShadurin/test/commit/0fdaf62c7a989ed69d90b28dbee283f4ab12f293))
+* new 999 ([6c2df83](https://github.com/IgorShadurin/test/commit/6c2df836a5b859e49493c48f7fab590447efe7bc))
+
 ## [0.4.0](https://github.com/IgorShadurin/test/compare/v0.3.1...v0.4.0) (2022-07-15)
 
 
